@@ -18,8 +18,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -40,8 +38,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
   <img width="12" />
@@ -56,8 +52,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
   <img width="12" />
@@ -69,8 +63,6 @@
 <h3 align="left">Other Tools and Technologies</h3>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
